@@ -1,9 +1,11 @@
-# 11Labs Unleashed
+مِيشِيلْ لُوْتِيْتُو ، اَلرَّجُلُ اَلَّذِي لَمْ يَكْتَفِ بِأَكْلِ اَلزُّجَاجِ وَالْمَعْدِنِ وَالْمَطَّاطِ ، بَلْ ذَهَبَ إِلَى أَبْعَدَ مِنْ ذَلِكَ بِكَثِيرٍ . هَلْ تَعْلَمُونَ أَنَّهُ أَكْلُ طَائِرَةٍ بِأَكْمَلِهَا ؟ نَعِمَ ، طَائِرَةٌ ! وَلَمْ يَتَوَقَّفْ عِنْدَ هَذَا اَلْحَدِّ ، فَقَدْ كَانَتْ اَلدَّرَّاجَاتُ وَشَفَرَاتُ اَلْحِلَاقَةِ جُزْءًا مِنْ قَائِمَةِ طَعَامِهِ أَيْضًا .# 11Labs Unleashed
 
-Provides unlimited ElevenLabs API calls.
+Provides unlimited ElevenLabs API calls.
+
 
 ## Disclaimer!
-This project is getting a bit too popular, be reasonable when creating fake accounts, if too many fake accounts are created, the 11Labs team will start investigating these fake accounts, and patch automated account creation with captcha (they did it but [#6](https://github.com/GaspardCulis/elevenlabs-unleashed/issues/6) showed me how to bypass it) or even remove free access to its services.
+This project is getting a bit too popular, be reasonable when creating fake accounts, if too many fake accounts are created, the 11Labs team will start investigating these fake accounts, and patch automated account creation with captcha (they did it but [#6](https://github.com/GaspardCulis/elevenlabs-unleashed/issues/6) showed me how to bypass it) or even remove free access to its services.
+
 
 ## Installation
 
